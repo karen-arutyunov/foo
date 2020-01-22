@@ -10,4 +10,4 @@ EOE
 
 : curl
 :
-curl 'https://www.example.com' >|
+curl -sS 'https://www.example.com' >|
