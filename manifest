@@ -1,6 +1,6 @@
 : 1
 name: foo
-version: 0.2.0+6
+version: 0.2.0+7
 summary: foo C++ executable
 license: proprietary
 description-file: README.md
