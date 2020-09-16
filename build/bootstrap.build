@@ -1,6 +1,8 @@
-project = foo-bar
+project = foo
 
-using version
+dist.package=foo-bar-0.1.0
+
+#using version
 using config
 using test
 using install
