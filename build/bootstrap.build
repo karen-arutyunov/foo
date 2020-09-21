@@ -1,6 +1,6 @@
 project = foo
 
-dist.package=foo-bar-0.1.0
+dist.package=foo-bar-0.1.0+2
 
 #using version
 using config
