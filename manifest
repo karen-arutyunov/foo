@@ -1,7 +1,7 @@
 : 1
 name: foo
-version: 0.2.0+14
-summary: foo C++ executable
+version: 0.2.0+15
+summary: Foo C++ executable
 license: proprietary
 description-file: README.md
 url: https://example.org/foo
