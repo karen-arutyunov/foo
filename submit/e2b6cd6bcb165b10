@@ -1,0 +1,5 @@
+: 1
+name: foo
+version: 0.2.0+19
+summary: Foo C++ executable
+license: proprietary
