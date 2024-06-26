@@ -1,6 +1,6 @@
 : 1
 name: libfoo
-version: 0.1.0-a.0.z
+version: 1.0.0
 language: c++
 project: foo
 summary: foo C++ library
