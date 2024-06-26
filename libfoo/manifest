@@ -1,0 +1,14 @@
+: 1
+name: libfoo
+version: 0.1.0-a.0.z
+language: c++
+project: foo
+summary: foo C++ library
+license: other: proprietary ; Not free/open source.
+description-file: README.md
+url: https://example.org/foo
+email: karen@codesynthesis.com
+#build-error-email: karen@codesynthesis.com
+depends: * build2 >= 0.16.0
+depends: * bpkg >= 0.16.0
+depends: libbar
