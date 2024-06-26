@@ -1,3 +1,0 @@
-import libs = libbaz%lib{baz}
-
-exe{driver}: {hxx ixx txx cxx}{**} $libs testscript{**}

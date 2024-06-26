@@ -3,6 +3,3 @@ location: libfoo/
 
 :
 location: libbar/
-
-:
-location: libbaz/
